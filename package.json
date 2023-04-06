@@ -1,6 +1,6 @@
 {
   "title": "html2canvas",
-  "name": "html2canvas",
+  "name": "@persagy2/html2canvas",
   "description": "Screenshots with JavaScript",
   "main": "dist/html2canvas.js",
   "module": "dist/html2canvas.esm.js",
@@ -21,6 +21,9 @@
   },
   "bugs": {
     "url": "https://github.com/niklasvh/html2canvas/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.3",
