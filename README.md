@@ -1,4 +1,7 @@
 html2canvas
+
+> 临时方案: 解决当 svg 标签存在 `position: absolute;` 属性时, 渲染内容残缺问题.
+
 ===========
 
 [Homepage](https://html2canvas.hertzen.com) | [Downloads](https://github.com/niklasvh/html2canvas/releases) | [Questions](https://github.com/niklasvh/html2canvas/discussions/categories/q-a)
